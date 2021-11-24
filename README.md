@@ -26,6 +26,8 @@ Press "F" to shoot a fire ball forward. This costs 10 MP. This deals damage equa
 
 Press "I" to surround the player in ice. This costs 20 MP. This is a close-range spell that deals damage equal to half of the player's attack stat, and ignores the enemy's defense. This is useful against the larger enemies with high defense.
 
+Casting a spell will toggle the able variable in GeneralFunctions to false for a short duration. This is to create a bit of endlag to the player's actions.
+
 Enemies:
 
 There are 2 types of enemies for the player to attack. They can be identified as red boxes.
