@@ -28,7 +28,7 @@ Press "I" to surround the player in ice. This costs 20 MP. This is a close-range
 
 Enemies:
 
-There are 2 types of enemies for the player to attack.
+There are 2 types of enemies for the player to attack. They can be identified as red boxes.
 The smaller enemies have less health and defense, and upon death have a 25% chance to drop a red capsule.
 The larger enemies have more health and defense, and upon death have a 100% chance to drop a red capsule.
 The enemies use the classes Enemy1 and Enemy2, which are both subclasses to the same superclass EnemyParent, which is a subclass to CharacterStats.
