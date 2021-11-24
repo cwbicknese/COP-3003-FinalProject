@@ -6,11 +6,11 @@ This project is a third-person adventure game where the player can move around m
 
 Project requirements:
 
-Movement Controls:
+**Movement Controls:**
 
 The player can move with either WASD or the arrow keys. Press space to jump. While in mid-air, pressing space again will allow the player to use a paraglider. This makes the player move faster while reducing their fall speed. Use the mouse to move the camera.
 
-Stats:
+**Stats:**
 
 Because the player has the script PlayerMovement, which is a subclass to CharacterStats, the player inherits the members from CharacterStats.
 The player has HP, MP, Attack, and Defense stats.
@@ -18,7 +18,7 @@ Casting spells consumes MP. MP can be restored by colliding with the glowing cir
 Attack can be increased by collecting red capsules.
 Gold can be gained by collecting gold capsules.
 
-Spells:
+**Spells:**
 
 The player can cast 2 spells currently.
 
@@ -28,7 +28,7 @@ Press "I" to surround the player in ice. This costs 20 MP. This is a close-range
 
 Casting a spell will toggle the able variable in GeneralFunctions to false for a short duration. This is to create a bit of endlag to the player's actions.
 
-Enemies:
+**Enemies:**
 
 There are 2 types of enemies for the player to attack. They can be identified as red boxes.
 The smaller enemies have less health and defense, and upon death have a 25% chance to drop a red capsule.
