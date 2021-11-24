@@ -6,7 +6,7 @@ This project is a third-person adventure game where the player can move around m
 
 **Project requirements:**
 
-    Comments at bottom of Enemy1: The comments explain inheritence and dynamic dispatch.
+    Bottom of Enemy1: The comments explain inheritence and dynamic dispatch.
   
     Bottom of PlayerMovement: The comments explain the use of generics.
   
