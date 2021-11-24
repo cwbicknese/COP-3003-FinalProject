@@ -24,7 +24,7 @@ The player can cast 2 spells currently.
 
 Press "F" to shoot a fire ball forward. This costs 10 MP. This deals damage equal to the player's attack stat minus the enemy's defense stat.
 
-Press "I" to surround the player in ice. This costs 20 MP. This is a close-range spell that deals damage equal to half of the player's attack stat, and ignores the enemy's defense.
+Press "I" to surround the player in ice. This costs 20 MP. This is a close-range spell that deals damage equal to half of the player's attack stat, and ignores the enemy's defense. This is useful against the larger enemies with high defense.
 
 Enemies:
 
