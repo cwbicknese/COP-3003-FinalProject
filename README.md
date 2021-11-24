@@ -4,7 +4,10 @@ This is a game I am making in Unity using C#. Source code is found in Proj/Asset
 After becoming a little more comfortable with Unity and C#, I started over with a new project.
 This project is a third-person adventure game where the player can move around more freely and cast spells.
 
-Project requirements:
+**Project requirements:**
+  Comments at bottom of Enemy1: The comments explain the inheritence of the enemy classes and dynamic dispatch.
+  Bottom of PlayerMovement: The comments explain the use of generics.
+  Top of Stats: The comments explain encapsulation.
 
 **Movement Controls:**
 
